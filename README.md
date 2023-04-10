@@ -10,6 +10,7 @@ Screenshot:
 
 ## Downloading
 - Go to the [releases](https://github.com/JosephGabito/open-ses-for-wp/releases/tag/1.0.0) tab, and download a specific version.
+- Extract the downloaded file and locate the folder called 'open-ses-for-wp'. The said folder is the plugin file, you may zip and upload it to WordPress.
 
 ## Installation
 - Log in to your WordPress dashboard.
