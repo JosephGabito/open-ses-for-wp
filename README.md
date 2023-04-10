@@ -1,4 +1,4 @@
-# Open Amazon Simple Email Service (SES)
+# Amazon Simple Email Service (SES) SMTP for WordPress
 
 A light weight WordPress plugin that provides user interface so you can use Amazon SES as an SMTP server.
 
