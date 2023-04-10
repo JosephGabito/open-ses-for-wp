@@ -4,6 +4,8 @@ A light weight WordPress plugin that provides user interface so you can use Amaz
 
 Uses action hook called `phpmailer_init` to overwite default WordPress email SMTP to use AMAZON SES credentials you specified in the wp-admin -> Settings -> Amazon SES
 
+<img width="898" alt="Screenshot 2023-04-10 at 2 05 46 PM" src="https://user-images.githubusercontent.com/81974552/230837642-342ef2ff-5bb5-4cbb-a084-0df4088e68c8.png">
+
 ## Downloading
 - Go to the [releases](https://github.com/JosephGabito/open-ses-for-wp/releases/tag/1.0.0) tab, and download a specific version.
 
@@ -22,4 +24,4 @@ Uses action hook called `phpmailer_init` to overwite default WordPress email SMT
 - Send a test email to your self.
 
 <p>Screenshot:</p>
-<img width="898" alt="Screenshot 2023-04-10 at 2 05 46 PM" src="https://user-images.githubusercontent.com/81974552/230837642-342ef2ff-5bb5-4cbb-a084-0df4088e68c8.png">
+
